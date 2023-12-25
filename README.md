@@ -1,6 +1,6 @@
 # Weather Me - Weather Forecast Application
 
-Welcome to the Weather Me application! This project uses the WeatherAPI to fetch real-time weather data based on user input. Users can search for any location and choose to display the weather information in either Fahrenheit or Celsius.
+Welcome to the Weather Me application! This project uses the WeatherAPI to fetch real-time weather data based on user input. Users can search for any location and choose to display the weather information in Celsius.
 
 ## Introduction
 

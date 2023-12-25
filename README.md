@@ -2,6 +2,8 @@
 
 Welcome to the Weather Me application! This project uses the WeatherAPI to fetch real-time weather data based on user input. Users can search for any location and choose to display the weather information in Celsius.
 
+![screenshot](/ss.png)
+
 ## Introduction
 
 The purpose of this project is to consolidate knowledge of API usage, asynchronous JavaScript, and dynamically updating the DOM. This application allows users to search for a specific location and see the current weather conditions, including temperature, humidity, and a brief description like 'Clear', 'Rain', etc. The page's appearance changes according to the weather data, providing an engaging user experience.

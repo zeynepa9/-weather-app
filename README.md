@@ -4,6 +4,10 @@ Welcome to the Weather Me application! This project uses the WeatherAPI to fetch
 
 ![screenshot](/ss.png)
 
+## Deployment
+
+Visit the deployed TODO List app at [https://zeynepa9.github.io/weather-app/](https://zeynepa9.github.io/weather-app/) to see the project live.
+
 ## Introduction
 
 The purpose of this project is to consolidate knowledge of API usage, asynchronous JavaScript, and dynamically updating the DOM. This application allows users to search for a specific location and see the current weather conditions, including temperature, humidity, and a brief description like 'Clear', 'Rain', etc. The page's appearance changes according to the weather data, providing an engaging user experience.
@@ -27,6 +31,8 @@ The WeatherAPI & GIPHY keys are used in this project is placed in the frontend c
 - **Asynchronous JavaScript:** Became more comfortable with asynchronous code in JavaScript using both promises and async/await patterns. This was crucial for handling API responses that are not immediately available.
 
 - **Error Handling:** Improved error handling in asynchronous operations to provide feedback to the user and for debugging purposes.
+
+
 
 
 This project is for educational purposes and is part of the JavaScript curriculum at The Odin Project.

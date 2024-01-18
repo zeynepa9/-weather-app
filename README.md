@@ -6,7 +6,7 @@ Welcome to the Weather Me application! This project uses the WeatherAPI to fetch
 
 ## Deployment
 
-Visit the deployed TODO List app at [https://zeynepa9.github.io/weather-app/](https://zeynepa9.github.io/weather-app/) to see the project live.
+Visit the deployed app at [https://zeynepa9.github.io/weather-app/](https://zeynepa9.github.io/weather-app/) to see the project live.
 
 ## Introduction
 
